@@ -1,0 +1,13 @@
+*.class
+*.*~
+*.pyc
+*.pyo
+htdocs/application/cache
+smarty_data/templates_c
+smarty_data/cache
+htdocs/application/logs
+temp
+*.bak
+.settings/org.eclipse.core.runtime.prefs
+.settings/com.aptana.editor.php.prefs
+.project
