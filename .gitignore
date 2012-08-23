@@ -3,8 +3,6 @@
 *.pyc
 *.pyo
 htdocs/application/cache
-smarty_data/templates_c
-smarty_data/cache
 htdocs/application/logs
 temp
 *.bak
