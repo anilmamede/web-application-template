@@ -2,8 +2,6 @@
 *.*~
 *.pyc
 *.pyo
-htdocs/application/cache
-htdocs/application/logs
 temp
 *.bak
 .settings/org.eclipse.core.runtime.prefs
