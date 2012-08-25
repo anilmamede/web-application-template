@@ -2,6 +2,10 @@
 *.*~
 *.pyc
 *.pyo
+htdocs/application/cache
+htdocs/application/logs
+smarty_data/cache
+smarty_data/templates_c
 temp
 *.bak
 .settings/org.eclipse.core.runtime.prefs
